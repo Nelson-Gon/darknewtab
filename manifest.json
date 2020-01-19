@@ -1,0 +1,16 @@
+{"manifest_version": 2,
+    "name": "darknewtab", 
+    "description": "Opens a dark new tab without any links", 
+    "version": "0.1.0", 
+    "author": "NelsonGon",
+"browser_action": {
+"default_icon": "just_black.png",
+"default_title": "New Tab"
+},
+"permissions": [
+"activeTab"
+
+],
+"chrome_url_overrides" : { "newtab": "darknewtab.html" }
+
+}
