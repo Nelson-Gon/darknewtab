@@ -34,4 +34,4 @@ git clone https://github.com/Nelson-Gon/edge-darknewtab.git
 
 **Result**
 
-![New tab](results.png)
+![New tab](preview.png)
