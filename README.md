@@ -25,4 +25,4 @@ That's it! You now have a dark new tab enabled.
 
 **Result**
 
-![New tab](newtab.png)
+![New tab](results.png)
