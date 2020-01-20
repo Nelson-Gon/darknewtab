@@ -8,7 +8,10 @@ Despite searching for a way to disable these in the settings, I found none. I th
 
 **NOTE**:
 
-This extension can work on any Chromium based. The name is just to indicate that the repository was Edge inspired.
+1. This extension can work on any Chromium based. The name is just to indicate that the repository was Edge inspired.
+
+2. The search bar currently uses bing as the search engine. You can override this by editing the darknewtab.html file. In most cases, this may be unnecessary since you can still use the top address bar which uses your default search engine. Future releases may make this more flexible.
+
 
 **Installation**
 
@@ -16,12 +19,18 @@ This extension can work on any Chromium based. The name is just to indicate that
 git clone https://github.com/Nelson-Gon/edge-darknewtab.git
 
 ```
+**Enabling the extension**
 
-Once that is done, open Edge(the new Chromium based Edge), go to Extensions and enable Developer Mode.
+1. Open Edge(the new Chromium based Edge)
 
-Next, load the extension by clicking "Load Unpacked" and finally choose the directory that you just cloned(ie darknewtab).
+2. Go to Extensions(click the three dots in the top right corner)
 
-That's it! You now have a dark new tab enabled.
+3. On the Extensions page, toggle to **enable Developer Mode**.
+
+4. Click **Load Unpacked** and choose the directory that you just cloned(ie edge-darknewtab).
+
+5. Enjoy a distraction free new tab. :)
+
 
 **Result**
 
