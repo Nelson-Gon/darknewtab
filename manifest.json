@@ -1,8 +1,8 @@
 {"manifest_version": 2,
     "name": "darknewtab", 
-    "description": "Opens a dark new tab without any links", 
-    "version": "0.1.0", 
-    "author": "NelsonGon",
+    "description": "A very simple and distraction and link free dark new tab for Chromium based browsers.", 
+    "version": "0.1.1", 
+    "author": "Nelson Gonzabato",
 "browser_action": {
 "default_icon": "just_black.png",
 "default_title": "New Tab"

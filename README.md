@@ -1,19 +1,19 @@
-# darknewtab
+# edge-darknewtab
 
-**Why darknewtab?**
+**Why edge-darknewtab?**
 
 I just installed the latest Chromium based Edge browser and discovered that there was a lot of distraction especially regarding links to websites I had no business connecting to. 
 
 Despite searching for a way to disable these in the settings, I found none. I therefore decided to create my own extension to solve that problem. 
 
-**NOTE**: 
+**NOTE**:
 
-This extension currently **connects to Bing** although this can easily be changed by editing the darknewtab.html file(basically just change Bing to Google)
+This extension can work on any Chromium based. The name is just to indicate that the repository was Edge inspired.
 
 **Installation**
 
 ```
-git clone https://github.com/Nelson-Gon/darknewtab
+git clone https://github.com/Nelson-Gon/edge-darknewtab.git
 
 ```
 
