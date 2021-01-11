@@ -1,5 +1,5 @@
 {"manifest_version": 2,
-    "name": "darknewtab", 
+    "name": "edge-darknewtab",
     "description": "A simple distraction and link free dark new tab for Chromium based browsers.",
     "version": "0.1.1", 
     "author": "Nelson Gonzabato",
