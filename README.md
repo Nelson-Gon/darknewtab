@@ -1,6 +1,6 @@
 # edge-darknewtab
 
-![Sample](https://www.github.com/Nelson-Gon/edge-darknewtab/preview.png?rwaw=tru)
+![Sample](https://github.com/Nelson-Gon/edge-darknewtab/blob/master/preview.png?raw=true)
 
 **Why edge-darknewtab?**
 
