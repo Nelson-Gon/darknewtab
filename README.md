@@ -1,6 +1,6 @@
 # edge-darknewtab
 
-![Our Icon](./android-chrome-512x512.png)
+![Sample](https://www.github.com/Nelson-Gon/edge-darknewtab/preview.png?rwaw=tru)
 
 **Why edge-darknewtab?**
 
@@ -40,5 +40,4 @@ git clone git@github.com:Nelson-Gon/edge-darknewtab.git
 5. Enjoy a distraction free new tab. :)
 
 
-**Result**
-![Preview](preview.png)
+
