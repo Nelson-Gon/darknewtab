@@ -1,22 +1,30 @@
 # edge-darknewtab
 
+![Our Icon](./android-chrome-512x512.png)
+
 **Why edge-darknewtab?**
 
-I just installed the latest Chromium based Edge browser and discovered that there was a lot of distraction especially regarding links to websites I had no business connecting to. 
+When I first built this,I had just installed the then newly released Chromium based Edge Browser.
 
-Despite searching for a way to disable these in the settings, I found none. I therefore decided to create my own extension to solve that problem. 
+Since then, a lot has changed with the new tab page of Edge having some improvements. 
 
+However, I still find it distracting and think that this new tab page extension may still be useful
+to those who love a simple and plain new tab page. 
+ 
 **NOTE**:
 
 1. This extension can work on any Chromium based. The name is just to indicate that the repository was Edge inspired.
 
-2. The search bar currently uses bing as the search engine. You can override this by editing the darknewtab.html file. In most cases, this may be unnecessary since you can still use the top address bar which uses your default search engine. Future releases may make this more flexible.
+2. The search bar currently uses bing as the search engine.
+   You can override this by editing the darknewtab.html file. 
+   In most cases, this may be unnecessary since you can still use the top address bar which uses your default search engine. 
+   Future releases may make this more flexible.
 
 
 **Installation**
 
 ```
-git clone https://github.com/Nelson-Gon/edge-darknewtab.git
+git clone git@github.com:Nelson-Gon/edge-darknewtab.git
 
 ```
 **Enabling the extension**
